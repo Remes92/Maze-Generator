@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<seeds>
+    <seed id="1">
+        <height>100</height>
+		<width>1011</width>
+    </seed>
+    <seed id="2">
+        <height>100</height>
+        <width>100</width>
+    </seed>
+    <seed id="3">
+        <height>200</height>
+        <width>2001</width>
+    </seed>
+</seeds>
